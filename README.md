@@ -1,5 +1,5 @@
 # FaceMaskDetection
-This is an image classification problem, and the aim is to perform face mask detection using the Convolution Neural Network (CNN) workflow in TensorFlow and OpenCV
+This is an image classification problem, and the aim is to perform face mask detection using the Convolutional Neural Network (CNN) workflow in TensorFlow and OpenCV
 
 
 # Dataset
